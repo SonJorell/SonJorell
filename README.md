@@ -32,7 +32,7 @@ en desarrollo Fullstack, bases de datos, análisis de datos e integración de te
 
 ## 👨‍💻 About Me
 
-Soy **Jorell Antonio Inostroza Arias**, estudiante de **Ingeniería en Informática** en el Instituto Profesional Santo Tomás, con interés en transformar ideas y necesidades reales en soluciones de software.
+Soy **Jorell Antonio Inostroza Arias**, estudiante de **Ingeniería en Informática** , con interés en transformar ideas y necesidades reales en soluciones de software.
 
 Mi enfoque combina **desarrollo Fullstack, bases de datos, análisis de datos e integración de tecnologías**, mientras continúo fortaleciendo mis conocimientos mediante proyectos académicos, personales y profesionales.
 
